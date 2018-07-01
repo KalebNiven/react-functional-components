@@ -8,3 +8,5 @@ This exercise will help you practice passing data into Stateless Functional Comp
 
 ### App Purpose
 For every movie, tell which users like it.
+
+![alt text](https://github.com/KalebNiven/react-functional-components/blob/master/screenshot.png)

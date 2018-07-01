@@ -6,5 +6,5 @@ make it a Stateless Functional Component.
 
 This exercise will help you practice passing data into Stateless Functional Components.
 
-###App Purpose
+### App Purpose
 For every movie, tell which users like it.
